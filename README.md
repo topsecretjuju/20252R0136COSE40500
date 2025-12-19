@@ -2,4 +2,10 @@
 
 ## DATA304 Assignments
 
-Folders: P2, P3, P4
+## Contents
+
+- P2: BERT embedding practice
+
+- P3: No-label / ESCI
+
+- P4: GNN practice
