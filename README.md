@@ -1,5 +1,5 @@
 # 20252R0136COSE40500
 
-# DATA304 Assignments
+## DATA304 Assignments
 
 Folders: P2, P3, P4
